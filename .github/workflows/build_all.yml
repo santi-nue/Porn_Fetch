@@ -41,5 +41,5 @@ jobs:
       - name: Archive Windows x64 build
         uses: actions/upload-artifact@v2
         with:
-          name: pyside6-application-windows-x64
-          path: D:\a\Porn_Fetch\Porn_Fetch\deploy\main.exe
+          name: pyside6-application-windows-x64.zip
+          path: D:\a\Porn_Fetch\Porn_Fetch
