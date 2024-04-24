@@ -11,7 +11,8 @@ exec_directory = .
 # path to .pyproject project file
 project_file = 
 # application icon
-icon = /home/asuna/PycharmProjects/Porn_Fetch/src/frontend/graphics/android_app_icon.png
+# icon = /home/asuna/PycharmProjects/Porn_Fetch/src/frontend/graphics/android_app_icon.png
+icon =
 
 [python]
 # python path
