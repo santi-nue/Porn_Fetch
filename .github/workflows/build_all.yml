@@ -8,8 +8,7 @@ on:
     branches:
       - master
 
-jobs:
-  
+jobs: 
   build-pornfetch-gui-windows-x64:
     runs-on: windows-latest
     steps:
